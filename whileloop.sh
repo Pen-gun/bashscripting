@@ -1,0 +1,12 @@
+#! /usr/bin/bash
+
+number=1
+
+while [ $number -lt 10 ]
+do
+	echo "$number"
+	#number=$(( number+1))
+	((number += 1))
+	#number=$(( number +=1 ))
+	#(( number++ ))
+done

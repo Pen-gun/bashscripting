@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 penguin penguin 4096 Jun 16 19:48 .
+drwxrwxr-x 4 penguin penguin 4096 Jun 15 14:23 ..
+-rwxrwxr-x 1 penguin penguin  127 Jun 16 17:33 arrays.sh
+-rw-rw-r-- 1 penguin penguin  443 Jun 16 17:28 arraysfruits.sh
+-rwxrwxr-x 1 penguin penguin  135 Jun 16 07:12 connectioncheck.sh
+-rwx--x--x 1 penguin penguin  314 Jun 16 06:10 forloop.sh
+-rwxrwxr-x 1 penguin penguin   95 Jun 15 07:58 helloscript.sh
+-rwxrwxr-x 1 penguin penguin  402 Jun 15 13:37 ifscript.sh
+-rwxrwxr-x 1 penguin penguin   90 Jun 16 19:49 listhappens.sh
+-rwxrwxr-x 1 penguin penguin  235 Jun 15 13:40 orscript.sh
+-rw-rw-r-- 1 penguin penguin    0 Jun 16 19:49 out.txt
+-rwxrwxr-x 1 penguin penguin  118 Jun 16 17:39 readfile.sh
+-rwxrwxr-x 1 penguin penguin   93 Jun 16 03:56 untilloop.sh
+-rwxrwxr-x 1 penguin penguin  162 Jun 16 03:51 whileloop.sh
