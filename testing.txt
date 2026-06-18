@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Thu, 18 Jun 2026 11:21:58 GMT
+content-type: text/html; charset=UTF-8
+server: cloudflare
+x-powered-by: PHP/8.1.34
+x-powered-by: PleskLin
+cache-control: no-cache, private
+set-cookie: XSRF-TOKEN=eyJpdiI6IkZ3ZndpbURLclpSZ0k0T2lseVZneXc9PSIsInZhbHVlIjoiTjFoTlRXTmFYckExdkl0NXlpeXd2MnNJb09FZEFpRXdqdnVYbWlQWE5kcTBxUUl6dFh6Y2hSRWRMNmZCYXVSczJoYWVtNmh0aktXZmZSTUswMDE0Q0QrczZLcDFlN29sMld6ZUZLSUc0UnI0clJ4RnFMd2Z6QStUeTNXcGdEczEiLCJtYWMiOiJhNzlhODdhYWI2ZDM4OWIxMWM4YWE5MjJiMjEzOTg4ZTljNjI0NmFkYmE0ZjljMTU4Y2VhMWExMGY0MTkzY2U5IiwidGFnIjoiIn0%3D; expires=Thu, 18-Jun-2026 13:21:58 GMT; Max-Age=7200; path=/; samesite=lax
+set-cookie: laravel_session=eyJpdiI6IkkwUDMxQkxiR2txRVZ2bDl4MUlXc2c9PSIsInZhbHVlIjoiTUVFT0hzaGJVbTRTemEvZkRrTE9ybUJCR2ZXRkU0cUVFOE82cWZ4ZExVTjRXd2NzUkFGYSs2SnJzdmowWE40a3JZbzA5MGkxS3FWcWgzaUY5YUlrTWNHdjFZS3huVHNnM0RIYlNHWEN2M2k4dEViVDFVemh6bUtLdHprd2xhbDUiLCJtYWMiOiJiMzZmZWZiMGYzNjdkNDJlODQ2NzZiNTI4MjI5YTJlODI0ODRhNTU1ZTI0OGI4OTliMGJmYjQ2NzRjMzFjMmQ5IiwidGFnIjoiIn0%3D; expires=Thu, 18-Jun-2026 13:21:58 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-cache-status: DYNAMIC
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=sNiM2nLwL7VqtAXyajLtcwVZl%2BnLKLd3jYHQ6%2BSPtg8uSf66zGfiPx5%2FolVH8Hrt70JqGwosWJM7%2FXyPoHcB%2Fxo1wZFhZbty8NjYVvX7QNL76cL5Ifqh1Wtmag3k2Y52OvjShe0G7lyO5nN1yXQ%3D"}]}
+cf-ray: a0d9e9dd3ad098d6-KTM
+alt-svc: h3=":443"; ma=86400
+
