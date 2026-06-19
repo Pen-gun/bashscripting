@@ -7,7 +7,7 @@ if [ -f "$file_name" ]; then
     echo "File '$file_name' found."
     echo "Enter a pattern to search for:"
     read pattern
-    grep "$pattern" "$file_name"
+    grep -i "$pattern" "$file_name"
 else
     echo "File '$file_name' not found."
 fi
