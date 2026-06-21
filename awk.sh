@@ -1,9 +1,9 @@
 #! /usr/bin/bash
 
-url=1-mb-pdf.pdf
+url=1-mb-pdf
 
 if [ ! -f "$url" ]; then
     echo "File $url does not exist."
 else
-    awk '{print $1}' "$url"
+    awk '/head/ {print $0}' "$url"
 fi
