@@ -20,4 +20,4 @@ else
     fi
 fi
 LOG_FILE="/home/penguin/desktop/bashScripting/pihole-monitoring/pihole.log"
-echo "$run" >> "$LOG_FILE"
+echo "$run" >> "$LOG_FILE" 
